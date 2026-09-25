@@ -1,0 +1,1 @@
+During the attempt of this project I first wrote down everything that I wanted to complete. Then I went to my code space and begain to type it and when the copilot would suggest somthing I would read through it and if it made since then I would hit tab and use it. I found it very useful when I would get stumped it would lead me to a solution.
